@@ -7,7 +7,7 @@ class AnimeService {
   final String path = '/anime';
 
   final Map<String, String> headers = {
-    'x-rapidapi-key': '744d00017fmshf7724215ca19740p12b0d6jsnd6045a9af933',
+    'x-rapidapi-key': 'YOUR_API_KEY',
     'x-rapidapi-host': 'anime-db.p.rapidapi.com'
   };
 
